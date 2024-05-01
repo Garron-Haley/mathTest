@@ -8,7 +8,7 @@ Download MathTest src files and run them in a code editor
 <img src="game.PNG" />
 ## Code Example
 I like this code because it simplifies the process of getting the results
-<img src="Capture.PNG" />
+<img src="capture.PNG" />
 ## Tests
 using JUnit4 just go to GradeTest and click the run button
 ## Contributors
